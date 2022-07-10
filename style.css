@@ -1,0 +1,42 @@
+body {
+    background-color: lightblue;
+    color: rgb(2, 31, 31);
+}
+
+.header_div {
+    background-color: aqua;
+    text-align: center;
+    padding: 10px;
+}
+
+.header_div h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 3px;
+}
+
+.main_div{
+    background-color: rgba(233, 88, 173, 0.664);
+    color: rgb(191, 8, 219);
+    padding: 30px;
+  
+}
+
+.main_div button{
+    margin-top: 50px;
+}
+
+.copy_right_footer{
+    background-color:rgb(68, 143, 228);
+    text-align: center;
+    color: rgb(192, 226, 209);
+    position:fixed;
+    bottom:10;
+    width: 100%;
+    padding: 5px;
+    font-size: 20px;
+    line-height: 1;
+}
+
+
+
+
